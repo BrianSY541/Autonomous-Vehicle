@@ -81,10 +81,15 @@ Explore the full project demonstrations through our YouTube playlist:
 - Accurate landmark mapping with EKF-based SLAM.
 - Effective path planning balancing shortest distance and maximum safety.
 
-## 🚩 Acknowledgments
-This project was completed as part of the CSE 276A coursework at the University of California, San Diego.
+---
+
+## 📧 Contact
+- **Brian (Shou-Yu) Wang**  
+  - Email: briansywang541@gmail.com  
+  - LinkedIn: [linkedin.com/in/sywang541](https://linkedin.com/in/sywang541)
+  - GitHub: [BrianSY541](https://github.com/BrianSY541)
 
 ---
 
-📫 **Contact**: [Brian (Shou Yu) Wang](https://github.com/BrianSY541) | briansywang541@gmail.com | www.linkedin.com/in/sywang541
+**Project developed as part of CSE 276A: Introduction to Robotics at UC San Diego.**
 
